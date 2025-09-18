@@ -4,9 +4,9 @@
    <extension
          point="org.eclipse.ui.views">
       <view
-            id="fetchdatabutton.views.SampleDataView"
+            id="com.example.sampledata.views.SampleDataView"
             name="Sample Data"
-            class="fetchdatabutton.views.SampleDataView"
+            class="com.example.sampledata.views.SampleDataView"
             category="Sample">
       </view>
    </extension>
